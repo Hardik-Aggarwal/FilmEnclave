@@ -15,3 +15,44 @@
 **Subscribe:** User can subscribe for instant updates of the new videos.
 
 **Side Video:** A different section on the screen where the user can see other related videos from the video that is being watched.
+
+
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+## Usage
+Create .env file in the server folder and add the following environment variables:
+```
+# MONGO = 
+# JWT = 
+# PORT = 3001
+```
+Create .env file in the client folder and add the following environment variables, values can be found from firebase project setup
+```
+# REACT_APP_FIREBASE_KEY = 
+# GENERATE_SOURCEMAP=false
+```
+### Install dependencies
+```
+# Backend deps
+cd server
+npm install
+# client deps
+cd client
+npm install
+```
+### Run Server
+```
+# Backend Server (Local)
+cd server
+npm start
+
+# client Server (Local)
+cd client
+npm start
+```
+
+you need to setup new project in firebase and enable storage and signin with google option
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
