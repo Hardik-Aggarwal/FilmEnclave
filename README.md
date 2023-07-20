@@ -81,8 +81,7 @@
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 ### Screenshots of Website
-# ![image](https://user-images.githubusercontent.com/75252077/224484912-899b97b9-c8e5-4e06-9dc6-1677ff190c20.png)
-# ![image](https://user-images.githubusercontent.com/75252077/215504244-3c88e023-4749-4366-99f5-b50575440c94.png)
+
 # ![image](https://user-images.githubusercontent.com/75252077/215592578-6ba38684-3016-45c9-9c5f-05e620f91227.png)
 
 # ![image](https://user-images.githubusercontent.com/75252077/215592676-c3456e26-73e0-4b17-9236-ae1199ddc4c1.png)
